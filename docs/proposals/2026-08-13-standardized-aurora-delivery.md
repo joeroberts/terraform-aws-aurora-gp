@@ -1,6 +1,6 @@
 # Standardized Aurora Delivery
 
-**Status:** Draft alternative for stakeholder review
+**Status:** Selected proposal; approved for stakeholder presentation
 
 **Decision requested:** Approve the proposed Aurora deployment pattern as the organizational standard, authorize implementation of the application module and shared database-access control plane, and adopt its design tenets as the reference pattern for future developer-facing Terraform modules.
 
